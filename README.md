@@ -34,8 +34,8 @@
 ## 📊 Estadísticas  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" alt="stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=radical" alt="streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maticassagne&show_icons=true&theme=radical" alt="stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maticassagne&theme=radical" alt="streak" height="160" />
 </p>
 
 <p align="center">
