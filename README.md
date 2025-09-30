@@ -9,6 +9,18 @@
 
 ---
 
+## 👨‍💻 Sobre mí  
+
+Actualmente me encuentro trabajando en un **proyecto para una distribuidora local**, donde estoy desarrollando el backend bajo una **arquitectura de microservicios** desplegada en la **nube**.  
+Mi enfoque está en construir soluciones escalables, seguras y fáciles de mantener, integrando tecnologías modernas tanto en backend como en frontend.  
+
+🔭 **Objetivos a futuro**:  
+- Seguir profundizando en **arquitecturas distribuidas** y **microservicios**.  
+- Trabajar con **infraestructura en la nube (AWS, GCP, Azure)**.  
+- Contribuir en proyectos de **alto rendimiento** y con **gran impacto**.  
+
+---
+
 ## 🛠️ Tech Stack  
 
 ### 🌐 Frontend
