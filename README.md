@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 ¡Hola, soy [Matias Cassagne]!
+# 👋 ¡Hola, soy Matias Cassagne!
   
 💻 Desarrollador **Full Stack** | ⚡ Especializado en **Backend**  
 🚀 Amante de la tecnología, las buenas prácticas y el código limpio  
